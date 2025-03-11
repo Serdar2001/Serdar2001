@@ -74,9 +74,8 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serdar2001&theme=radical" height="150" alt="stats graph"  />
-</div>
-
+## 🔥 Стек технологий:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,firebase,figma,vscode,git,github" />
+</p>
 ###
