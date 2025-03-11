@@ -74,8 +74,4 @@
 </div>
 
 ###
-## 🔥 Стек технологий:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,firebase,figma,vscode,git,github" />
-</p>
-###
+
